@@ -1,0 +1,10 @@
+- React core component are strict, each compo has to handle it's logic
+    for example, we cannot write text inside the View compo otherwise an error will occur
+
+- View by default uses Flexbox to orgnize its children structure
+
+- in RN styling we only use either % or number (px)
+
+- the styling inheritance from parent to child is not part of RN, (no cascading)
+
+- Learned RN core compo: view, text, textInput, button, scrollView
