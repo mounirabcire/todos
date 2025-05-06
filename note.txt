@@ -7,4 +7,11 @@
 
 - the styling inheritance from parent to child is not part of RN, (no cascading)
 
-- Learned RN core compo: view, text, textInput, button, scrollView
+- each of these core component has props that work for both IOS and Android or one of them.
+
+- The FlatList is self closing compo that only render the needed list, it accespts the data, renderItem props and auto will generate a meta object data with our data and a unique key
+    for each list, if our single aray data are not primitve are object taht contain the key prop, otherwise we use the keyExtractro prop
+
+
+
+- Learned RN core compo: view, text, textInput, button, scrollView, FlatList, Pressable(andoir_ripple & style for IOS), Modal
