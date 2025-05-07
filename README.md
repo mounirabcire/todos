@@ -30,7 +30,7 @@ This project was my first dive into React Native, focusing on understanding the 
 
 ## 📷 Screenshots
 <div>
-    <img src="./assets/app_preview/photo_5825813551942584501_y.jpg" width="100"/>
-    <img src="./assets/app_preview/photo_5825813551942584502_y.jpg" width="100"/>
-    <img src="./assets/app_preview/photo_5825813551942584503_y.jpg" width="100"/>
+    <img src="./assets/app_preview/photo_5825813551942584501_y.jpg" width="250"/>
+    <img src="./assets/app_preview/photo_5825813551942584502_y.jpg" width="250"/>
+    <img src="./assets/app_preview/photo_5825813551942584503_y.jpg" width="250"/>
 </div>
