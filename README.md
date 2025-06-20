@@ -6,7 +6,7 @@ A simple React Native app built with **TypeScript** that lets you manage a basic
 This project was my first dive into React Native, focusing on understanding the core components, handling component-specific logic, and working with platform-specific styling.
 
 ## 🚀 Tech Stack
-- React Native
+- React Native (with expo)
 - Typescript
 - Pure CSS (using React Native’s StyleSheet)
 
